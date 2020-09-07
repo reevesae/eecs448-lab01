@@ -1,1 +1,1 @@
-Big long story about git
+Short story about git
